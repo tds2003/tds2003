@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saravanan TD
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Information Technology
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently pusuing B.Tech IT
 - 💞️ I’m looking to collaborate on more projects
 - 📫 Reach me at saravanantd2003@gmail.com 
 
